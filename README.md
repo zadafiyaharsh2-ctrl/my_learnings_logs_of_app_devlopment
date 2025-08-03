@@ -28,7 +28,7 @@ To become a **proficient full-stack mobile app developer**, starting with Flutte
 
   * iOS
   * macOS
-  * Android phone
+  * Android phone(wireless and with usb debuging)
   * Emulator (Virtual Device)
 * ✅ Started learning **Dart programming language**.
 * 📘 Covered: **Basics of dart like data types** in Dart and their inbuilt fuctions.
