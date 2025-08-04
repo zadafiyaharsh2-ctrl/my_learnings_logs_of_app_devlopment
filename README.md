@@ -14,7 +14,7 @@ To become a **proficient full-stack mobile app developer**, starting with Flutte
 
 ## 🛠️ My Progress & Learning Logs
 
-### 🗕️ 3rd August 2025
+### 🗕️ 2rd August 2025
 
 * ✅ Set up Flutter environment and installed Android Studio.
 * ✅ Created my **first basic Flutter app**.
@@ -22,7 +22,7 @@ To become a **proficient full-stack mobile app developer**, starting with Flutte
 
 ---
 
-### 🗕️ 4th August 2025
+### 🗕️ 3th August 2025
 
 * ✅ Learned how to run Flutter app on:
 
